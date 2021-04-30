@@ -1,0 +1,9 @@
+<input type="text" name="fname" value="">
+<input type="text" name="lname" value="" >
+<input type="radio" name="gender" value="Male" >  Male 
+<input type="radio" name="gender" value="Female" > Female
+<input type="date" name="dof" value="">
+<input type="text" name="add" value="">
+<input type="text" name="uname" value="">
+<input type="password" name="password" value="">
+<input type="email" name="email" id="" value="">
